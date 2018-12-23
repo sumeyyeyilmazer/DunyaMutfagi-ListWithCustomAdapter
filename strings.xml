@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DunyaMutfagi</string>
+    <string name="title_activity_turkey">İskender Tarifi</string>
+    <string name="large_text">
+       Ev yapımı iskender tarifi için malzemeler\n\n
+400 g dana tranç\n
+2 yemek kaşığı zeytinyağı\n
+2 yemek kaşığı tereyağ\n
+Tuz\n
+Karabiber\n\n
+Sosu için : \n
+
+1 yemek kaşığı zeytinyağı\n
+1 yemek kaşığı tereyağ\n
+200 ml domates püresi\n
+1 su bardağı sıcak su\n
+Tuz\n\n
+Servis için : \n
+
+Tırnaklı pide\n
+2 yemek kaşığı tereyağ\n
+4 sivri biber\n
+2 domates\n\n
+Kızartmak için : \n
+
+Ayçiçek yağı\n\n
+Üzeri için :\n
+
+Yoğurt\n
+1 yemek kaşığı tereyağ\n\n
+   Ev yapımı iskender Nasıl Yapılır\n\n
+ Dana bonfile etini streç filme sarıp dondurucuya alın. Yaklaşık 1-1,5 saat buzlukta bekletin. Bıçakla ince dilimler kesebileceğiniz sertliğe geldiğinde eti buzluktan çıkarın.
+  Keskin bir bıçak yardımıyla ince yaprak şeklinde dilimler kesin. Yapışmaz yüzeyli bir tencereye etleri alın ve suyunu salıp tekrar çekene kadar karıştırmadan kapağı kapalı olarak pişirin.
+ Zeytinyağı ve tereyağını ilave edip kızartın. Tuz ve karabiber ile tatlandırıp ocaktan alın.\n
+  Sosu için zeytinyağı ve tereyağını bir sos tenceresine alıp ısıtın. Domates püresi ve sıcak suyu ekleyip kaynamaya bırakın. Kaynamaya başladığında tuzunu ilave edip karıştırın ve ocaktan alın.\n
+ Yapışmaz yüzeyli bir tavada tereyağını eritin. Pideleri küp doğrayıp tavaya ekleyin ve hafif pembeleşene kadar kızartın.\n
+Ayçiçek yağını bir tavada ısıtın. Biberleri ve dörde böldüğünüz domatesleri yağda kızartıp hazırlayın.\n
+Servis tabağına önce hafif kızarttığınız pideleri yayın. Üzerine domates sosu gezdirin ve kızarttığınız etleri yerleştirin.
+        Tereyağını eritip etlerin üzerine gezdirin. Yanında yoğurt, kızarttığınız domates ve biberleri yerleştirip sıcak servis yapın.
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
